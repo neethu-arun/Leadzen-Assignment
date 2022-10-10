@@ -1,2 +1,2 @@
-# Leadzen-Assignment
-Take home assignment for Python Developer Role
+# Leadzen-Assignment-Problem2
+Take home assignment - to identify cyclic linked list
